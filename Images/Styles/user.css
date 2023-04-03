@@ -24,7 +24,7 @@
 body{
   height: 100vh; width: 100vw;
   position: relative; 
-  background-image: url(user.jpg);
+  background-image: url(logo.jpg);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
